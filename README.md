@@ -8,11 +8,19 @@ Welcome to my **100-day journey** as a self-driven AI Product Manager, where I a
 
 ## 🎯 Purpose
 
+Purpose
+
 This challenge is designed to:
-- Learn how to **analyze AI products** from a PM perspective
-- Strengthen foundations through hands-on experience and **IBM AI Product Manager (Coursera) certification**
-- Build a portfolio aligned with **AI for Governance & Sustainability**
-- Prepare for **MBA admissions** and future leadership in AI for public good
+
+Establish my long-term aspiration of becoming a global leader in AI for Governance, ESG, Education, and AI Ethics — building trustworthy, inclusive, and impactful civic technologies for the public good
+
+Learn how to analyze real-world AI products from a product management (PM) perspective
+
+Strengthen foundational knowledge through hands-on case studies and the IBM AI Product Manager (Coursera) certification
+
+Build a portfolio aligned with domains like AI for Governance, Education, ESG, and Sustainability
+
+Prepare for MBA admissions by demonstrating applied product thinking, leadership, and initiative
 ## 📦 Structure
 
 The challenge is divided into 5 phases:
