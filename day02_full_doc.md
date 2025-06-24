@@ -2,6 +2,7 @@
 
 📅 **#100DaysOfAIPM** | **AI Product Management Case Study**  
 📝 **Format: STAR (Situation – Task – Action – Result)**  
+https://www.linkedin.com/posts/pmrajesh_100daysofaipm-aiproductmanagement-gpt4-activity-7343270943298920448-hISZ?utm_source=share&utm_medium=member_android&rcm=ACoAAFeRDcABlHzqqZ-PBFQB4L0IPOAgYvnCKNM
 
 ---
 
