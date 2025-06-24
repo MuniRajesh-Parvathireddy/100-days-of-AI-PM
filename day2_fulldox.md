@@ -108,61 +108,6 @@ As the AI Product Manager, your responsibilities included:
 ✅ One-rule explanation  
 ✅ Supportive tone  
 ✅ Hallucination-free
-# ðŸ§  Core AI & Engineering Team (10â€“15 People)
-
-| Role | Responsibility |
-|------|----------------|
-| ML Engineers (3â€“5) | Integrate GPT-4, tune prompts, build filters |
-| AI Research Scientists (1â€“2) | Handle fine-tuning, RLHF, hallucination suppression |
-| Backend Engineers (2â€“3) | API orchestration, real-time session management |
-| Mobile Engineers (2â€“3) | Embed Roleplay & Explain features into app UI |
-| Data Engineers (1â€“2) | Logging, telemetry, embeddings (if any) |
-
----
-
-# ðŸ› ï¸ Product & UX Team (5â€“8 People)
-
-| Role | Responsibility |
-|------|----------------|
-| AI Product Manager (1) | Own roadmap, ship milestones, define metrics |
-| UX Designer / Researcher (1â€“2) | Build natural conversations, reduce cognitive load |
-| Content Designers / Linguists (2â€“3) | Align AI with pedagogy & language principles |
-| Localization Manager (1) | Enable multilingual scaling |
-
----
-
-# ðŸ” Safety, QA & Trust (5â€“7 People)
-
-| Role | Responsibility |
-|------|----------------|
-| AI Safety Specialists (1â€“2) | Evaluate bias, toxicity, hallucination risks |
-| QA Testers (2â€“3) | Run scripted/manual test cases for flows & bugs |
-| Legal/Policy Advisors (1â€“2) | COPPA, data compliance, IP review |
-
----
-
-# ðŸ“Š Analytics & Growth (2â€“4 People)
-
-| Role | Responsibility |
-|------|----------------|
-| Data Analysts (1â€“2) | Track KPIs, A/B tests, LLM interaction data |
-| User Support (1â€“2) | Escalate faulty responses, manage user tickets |
-
----
-
-# ðŸ“Œ Total Estimated Core Team
-
-| Function | Estimated Size |
-|----------|----------------|
-| AI & Engineering | 10â€“15 |
-| Product & UX | 5â€“8 |
-| Safety & QA | 5â€“7 |
-| Analytics & Support | 2â€“4 |
-| **Total** | **22â€“34 People** |
-
-> ðŸ§© Excludes: OpenAI team, executive sponsors, or teams supporting other Duolingo features.
-
----
 
 ## 📚 PM Insights
 
