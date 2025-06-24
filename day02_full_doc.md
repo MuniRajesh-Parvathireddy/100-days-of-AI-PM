@@ -168,8 +168,6 @@ While Duolingo Max currently uses prompt templates, future iterations may adopt 
 ---
 
 ## 🔍 Real-World Signals
-
-- Duolingo’s AI R&D team actively publishes (Luis von Ahn, Mona Diab)  
 - GPT-4 integration in mobile launched within months  
 - Built at scale: >1M paid users and multilingual support  
 
