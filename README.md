@@ -37,4 +37,3 @@ The challenge is divided into 5 phases:
   🔗 [LinkedIn Reflection](#) *(https://www.linkedin.com/posts/pmrajesh_100daysofaipm-100daysofaipm-aiproductmanagement-activity-7342835697059315713--kME?)*
 
 
-(Repeat this structure up to Day 100.)
