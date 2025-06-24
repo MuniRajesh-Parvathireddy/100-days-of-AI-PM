@@ -37,7 +37,6 @@ The challenge is divided into 5 phases:
 
 ## ✅ 100 Days Progress Tracker
 
-### Phase 1: AI PM Foundations
 
 - [x] **Day 1** – 🧠 *Pinterest: Natural Language to SQL Query Generation using LLM and RAG with Vector DB*  
   Explored how Pinterest leverages large language models (LLMs) to convert user questions into SQL queries.  
