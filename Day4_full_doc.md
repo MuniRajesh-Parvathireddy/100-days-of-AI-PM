@@ -6,7 +6,7 @@
 
 🚀 Challenge: Day 4 of #100DaysOfAIPM
 
-https://www.linkedin.com/posts/pmrajesh_ai-architecture-models-activity-7343713962150006785-6c7V?utm_source=share&utm_medium=member_android&rcm=ACoAAFeRDcABlHzqqZ-PBFQB4L0IPOAgYvnCKNM
+https://www.linkedin.com/posts/pmrajesh_ai-architecture-models-activity-7343713962150006785-6c7V?
 ---
 
 MODERN AI ARCHITECTURES
