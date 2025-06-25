@@ -52,3 +52,21 @@ Key focus: Tackling hallucinations and vague feedback using prompt engineering, 
 🔗 LinkedIn Reflection
 https://www.linkedin.com/posts/pmrajesh_100daysofaipm-aiproductmanagement-gpt4-activity-7343270943298920448-hISZ?utm_source=share&utm_medium=member_android&rcm=ACoAAFeRDcABlHzqqZ-PBFQB4L0IPOAgYvnCKNM
 
+✅ Day 3 – 🧠 Comparing LLMs for Governance, ESG, and Education Use Cases
+
+Analyzed and compared 7 top LLMs (GPT-4.5, Claude 3.7, Gemini 2.5, LLaMA 4, Mistral S3, Cohere R+, Grok 3) from a product manager’s perspective.
+
+Key focus: Evaluating models not just by benchmarks, but by:
+
+⚖️ Explainability (e.g. Claude’s Constitutional AI)
+
+🧩 PM fit (e.g. Cohere for RAG-based ESG compliance tools)
+
+🌍 Local deployment potential (e.g. LLaMA for civic apps)
+
+💡 Use case alignment in governance, education, and sustainability platforms
+
+
+🔗 LinkedIn Reflection: 
+https://www.linkedin.com/posts/pmrajesh_llm-comparision-activity-7343608519796932608-uI2H?utm_source=share&utm_medium=member_android&rcm=ACoAAFeRDcABlHzqqZ-PBFQB4L0IPOAgYvnCKNM
+
