@@ -38,7 +38,7 @@ The challenge is divided into 5 phases:
 ## ✅ 100 Days Progress Tracker
 
 
-- [x] **Day 1** – 🧠 *Pinterest: Natural Language to SQL Query Generation using LLM and RAG with Vector DB*  
+**Day 1** – 🧠 *Pinterest: Natural Language to SQL Query Generation using LLM and RAG with Vector DB*  
   Explored how Pinterest leverages large language models (LLMs) to convert user questions into SQL queries.  
   Key focus: Using Retrieval-Augmented Generation (RAG) to select relevant data chunks from a **vector database**, enabling precise query execution across large datasets.  
   🔗 [LinkedIn Reflection](#) *(https://www.linkedin.com/posts/pmrajesh_100daysofaipm-100daysofaipm-aiproductmanagement-activity-7342835697059315713--kME?)*
@@ -69,4 +69,24 @@ Key focus: Evaluating models not just by benchmarks, but by:
 
 🔗 LinkedIn Reflection: 
 https://www.linkedin.com/posts/pmrajesh_llm-comparision-activity-7343608519796932608-uI2H?utm_source=share&utm_medium=member_android&rcm=ACoAAFeRDcABlHzqqZ-PBFQB4L0IPOAgYvnCKNM
+
+
+✅ Day 4 – 📘 Mapping Modern AI Architectures for Product Managers
+#100DaysOfAIPM | June 26, 2025
+
+Today, I unpack the backbone architectures behind today's leading AI systems—from language giants to vision agents. This deep dive synthesizes 8 model families—LLMs, LCMs, VLMs, SLMs, MoEs, MLMs, LAMs, SAMs—through a product management lens.
+
+🔍 What I compared:
+
+Core Architecture (e.g., SAMs = Prompt encoder + ViT + Mask decoder)
+
+Deployment Context (SLMs for edge vs MoEs for scalable multi-domain)
+
+Use-Case Fit (LAMs for workflow automation, VLMs for climate imaging)
+
+PM Decision Factors—compute cost, latency, explainability
+🔗 LinkedIn Reflection: 
+https://www.linkedin.com/posts/pmrajesh_ai-architecture-models-activity-7343713962150006785-6c7V
+
+
 
