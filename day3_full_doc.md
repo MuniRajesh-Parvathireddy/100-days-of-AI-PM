@@ -3,7 +3,7 @@
 
 📅 **Date:** June 24, 2025  
 🏷️ **Tags:** `#100DaysOfAIPM #AIProductManagement #LLM #GovernanceAI #ESG #EdTech #RAG`
-
+Linkedin Reflection https://www.linkedin.com/posts/pmrajesh_llm-comparision-activity-7343608519796932608-uI2H?utm_source=share&utm_medium=member_android&rcm=ACoAAFeRDcABlHzqqZ-PBFQB4L0IPOAgYvnCKNM
 ---
 
 ### 🧠 Objective
@@ -77,6 +77,3 @@ As a future **AI PM in Governance and ESG**, I plan to:
 
 ---
 
-### 📎 Next Up
-
-➡️ Day 4: Deep dive into **Retrieval-Augmented Generation (RAG)** — Architectures, trade-offs, and PM use cases for ESG & education.
