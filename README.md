@@ -90,3 +90,35 @@ https://www.linkedin.com/posts/pmrajesh_ai-architecture-models-activity-73437139
 
 
 
+
+✅ Day 5 – 🧠 Mitigating AI Hallucinations: A Strategic Deep Dive
+#100DaysOfAIPM | June 27, 2025
+
+Today, I broke down the challenge of hallucinations in LLMs — when models generate confident but false outputs. These failures risk trust, safety, and product adoption. This case study outlines a layered mitigation playbook from a PM lens.
+
+🔍 What I explored:
+
+Prevention: RAG, RLHF, curated datasets, and tool-augmented models
+
+Detection: Softmax confidence, Monte Carlo Dropout, self-verification
+
+Containment: HITL review, citations, friction UX, red teaming
+
+Example: Einstein didn’t invent electricity → factual, supportive AI response
+
+PM Trade-offs: Safety vs latency, cost vs control
+
+Results: Hallucination rate reduced from 9–15% → <2%
+
+
+🎯 Key PM Insight:
+
+> Mitigating hallucinations isn’t just an AI task — it’s a product trust strategy.
+Prompt engineering = UX for LLMs. Risk-aware architecture wins.
+
+
+
+🔗 LinkedIn Reflection:
+https://www.linkedin.com/posts/pmrajesh_ai-hallucination-activity-7344439193948835840-KdcX
+
+
