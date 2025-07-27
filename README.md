@@ -122,3 +122,28 @@ Prompt engineering = UX for LLMs. Risk-aware architecture wins.
 https://www.linkedin.com/posts/pmrajesh_ai-hallucination-activity-7344439193948835840-KdcX
 
 
+Day 6 – ✍️ Prompt Engineering Basics for Product Managers
+
+#100DaysOfAIPM | June 28, 2025
+
+Today, I explored how prompt engineering helps Product Managers harness LLMs more effectively — turning vague outputs into structured, strategic insights. I experimented with role-based prompts, zero/few-shot formats, and chain-of-thought reasoning to drive product ideation, user empathy, and rapid prototyping.
+
+🔍 What I explored:
+
+Prompt types: Zero-shot, few-shot, chain-of-thought
+
+Role-based prompting for PM use cases
+
+Templates for persona simulation, feature ideation, SWOT analysis
+
+Prompt-as-UX: how phrasing shapes model behavior
+
+
+🧠 Example:
+"Act as a PM for a budgeting app. Suggest 3 Gen Z-focused features."
+→ Output: Gamified savings streaks, AI spending coach, social finance challenges.
+
+🎯 Key PM Insight:
+Prompt engineering is the new micro-UX for AI products — a critical skill for shaping reliable, context-aware outputs that match user intent.
+
+🔗 LinkedIn Reflection: https://www.linkedin.com/posts/pmrajesh_prompt-pm-basic-activity-7344940228962328576-uiU0
