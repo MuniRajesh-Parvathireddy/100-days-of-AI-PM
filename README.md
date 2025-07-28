@@ -1,4 +1,4 @@
-lolo# 100-days-of-AI-PM
+lololo# 100-days-of-AI-PM
 AI Product Management Challenge Portfolio
 # 🚀 100 Days of AI Product Management Challenge
 
@@ -183,6 +183,23 @@ Malicious prompt → agent retrieves unauthorized data → mitigated with prompt
 🎯 **Key PM Insight:**  
 Securing AI agents is **not just technical hardening**—it’s a **trust-first product strategy** requiring layered safety and UX guardrails.
 
+# 🥊 Day 17 – Adversarial Training for Safer AI Agents  
+**#100DaysOfAIPM**  
+🔗 [LinkedIn Reflection](https://www.linkedin.com/posts/pmrajesh_adverse-training-activity-7350953396549341184-G8ZU)
+
+Today, I explored how **adversarial training** hardens AI agents against malicious prompts and model exploits. By training on deliberately perturbed inputs, models learn to resist manipulation and handle edge cases more robustly.
+
+🔍 **What I explored:**  
+- Adversarial attack types: prompt injection, gradient-based, data poisoning  
+- Training methods: adversarial examples, robust fine-tuning, defensive distillation  
+- Impact on model safety and reliability in production  
+
+🧠 **Example:**  
+Injecting hidden malicious instructions into a customer service agent → retrained with adversarial prompts → model resists exploit, responds safely.
+
+🎯 **Key PM Insight:**  
+Adversarial training isn’t just a technical safeguard—it’s a **product trust enabler**, ensuring AI agents remain resilient under real-world adversarial conditions.
+
 # 🔎 Day 18 – Anomaly Detection in AI Agents  
 **#100DaysOfAIPM**  
 🔗 [LinkedIn Reflection](https://www.linkedin.com/posts/pmrajesh_anamoly-detection-activity-7351317794015105024-bQat)
@@ -199,3 +216,4 @@ An AI grievance agent suddenly rejects 3× more complaints → anomaly detection
 
 🎯 **Key PM Insight:**  
 Anomaly detection is more than monitoring — it’s a **strategic safeguard** for trustworthy AI, enabling proactive safety and continuous reliability.
+
