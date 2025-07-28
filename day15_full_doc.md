@@ -1,5 +1,5 @@
 # 🛡️ Day 15 – AI Guardrails for Safer Agents  
-**#100DaysOfAIPM | [Insert Date]**  
+**#100DaysOfAIPM |
 🔗 [LinkedIn Reflection](https://www.linkedin.com/posts/pmrajesh_guardrails-activity-7350570717907701760-8_t9)
 
 ---
