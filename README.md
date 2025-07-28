@@ -1,4 +1,4 @@
-# 100-days-of-AI-PM
+lo# 100-days-of-AI-PM
 AI Product Management Challenge Portfolio
 # 🚀 100 Days of AI Product Management Challenge
 
@@ -147,3 +147,20 @@ Prompt-as-UX: how phrasing shapes model behavior
 Prompt engineering is the new micro-UX for AI products — a critical skill for shaping reliable, context-aware outputs that match user intent.
 
 🔗 LinkedIn Reflection: https://www.linkedin.com/posts/pmrajesh_prompt-pm-basic-activity-7344940228962328576-uiU0
+
+# 🛡️ Day 16 – Threats to AI Agents  
+**#100DaysOfAIPM | [Insert Date]**  
+🔗 [LinkedIn Reflection](https://www.linkedin.com/posts/pmrajesh_threats-to-ai-agents-activity-7350617152955035651-RiCo)
+
+Today, I explored **security and safety risks** facing autonomous AI agents. As these agents gain autonomy, they become vulnerable to **prompt injections, data poisoning, exploitation, agentic errors, and privacy leaks**, threatening reliability and adoption.
+
+🔍 **What I explored:**  
+- Common threat vectors: prompt injection, data poisoning, model exploitation  
+- Agentic risks: unsafe tool use, cascading errors  
+- Mitigation: input/output sanitization, permission controls, red teaming, sandboxing  
+
+🧠 **Example:**  
+Malicious prompt → agent retrieves unauthorized data → mitigated with prompt sanitization + permission checks.
+
+🎯 **Key PM Insight:**  
+Securing AI agents is **not just technical hardening**—it’s a **trust-first product strategy** requiring layered safety and UX guardrails.
