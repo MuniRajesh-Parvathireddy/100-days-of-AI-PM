@@ -236,3 +236,23 @@ With MCP → 3 + 4 = 7 integrations, improving scalability.
 
 🎯 **Key PM Insight:**  
 MCP + solid LLM infrastructure acts as the **USB-C and backbone for AI agents**, enabling seamless interoperability, faster development, and reliable multi-agent operations.
+
+# 🔗 Day 20 – Agent-to-Agent Protocol for Secure AI Communication  
+**#100DaysOfAIPM**  
+🔗 [LinkedIn Reflection](https://www.linkedin.com/posts/pmrajesh_100daysofaipm-100daysofaipm-agenticai-activity-7352048064875986944-K1Gk)
+
+Coordinating multiple autonomous AI agents is challenging due to brittle integrations and security risks.  
+
+Today, I explored **Agent-to-Agent (A2A) Protocols**, developed by Google and DIDComm communities, which enable **decentralized, secure, and asynchronous** communication between agents—without relying on centralized APIs.  
+
+🔍 **What I explored:**  
+- Standardized cross-platform agent communication  
+- Built-in authentication and end-to-end encryption  
+- Peer-to-peer messaging for fault tolerance  
+- Scalability for multi-agent collaboration  
+
+🧠 **Example:**  
+In a smart city energy grid, agents securely share data and adjust supply-demand in real time using A2A, avoiding single points of failure.  
+
+🎯 **Key PM Insight:**  
+A2A protocols are the **communication backbone of agentic AI**, enabling scalable, trustworthy, and resilient multi-agent ecosystems.
