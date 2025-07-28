@@ -1,4 +1,4 @@
-lo# 100-days-of-AI-PM
+lolo# 100-days-of-AI-PM
 AI Product Management Challenge Portfolio
 # 🚀 100 Days of AI Product Management Challenge
 
@@ -182,3 +182,20 @@ Malicious prompt → agent retrieves unauthorized data → mitigated with prompt
 
 🎯 **Key PM Insight:**  
 Securing AI agents is **not just technical hardening**—it’s a **trust-first product strategy** requiring layered safety and UX guardrails.
+
+# 🔎 Day 18 – Anomaly Detection in AI Agents  
+**#100DaysOfAIPM**  
+🔗 [LinkedIn Reflection](https://www.linkedin.com/posts/pmrajesh_anamoly-detection-activity-7351317794015105024-bQat)
+
+Today, I explored how **anomaly detection** helps maintain the safety and reliability of AI agents. Early detection of unusual behavior prevents cascading failures, strengthens guardrails, and builds user trust.
+
+🔍 **What I explored:**  
+- Types: point, contextual, collective anomalies  
+- Techniques: statistical thresholds, Isolation Forests, Autoencoders, hybrid models  
+- Applications: detecting policy violations, prompt injection attacks, and behavioral drift  
+
+🧠 **Example:**  
+An AI grievance agent suddenly rejects 3× more complaints → anomaly detection flags it → alert triggers review and model retraining.
+
+🎯 **Key PM Insight:**  
+Anomaly detection is more than monitoring — it’s a **strategic safeguard** for trustworthy AI, enabling proactive safety and continuous reliability.
