@@ -1,5 +1,5 @@
 # 🛡️ Threats to AI Agents – Security & Safety Insights  
-**#100DaysOfAIPM | [Date of Post]**  
+**#100DaysOfAIPM |
 🔗 [LinkedIn Reflection](https://www.linkedin.com/posts/pmrajesh_threats-to-ai-agents-activity-7350617152955035651-RiCo)
 
 ---
