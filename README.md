@@ -148,6 +148,24 @@ Prompt engineering is the new micro-UX for AI products — a critical skill for 
 
 🔗 LinkedIn Reflection: https://www.linkedin.com/posts/pmrajesh_prompt-pm-basic-activity-7344940228962328576-uiU0
 
+# 🛡️ Day 15 – AI Guardrails for Safer Agents  
+**#100DaysOfAIPM | [Insert Date]**  
+🔗 [LinkedIn Reflection](https://www.linkedin.com/posts/pmrajesh_guardrails-activity-7350570717907701760-8_t9)
+
+Today, I explored how **guardrails** ensure AI agents stay safe, aligned, and trustworthy. From **policy filters** to **tool permissioning**, guardrails act as safety rails guiding autonomous decisions while preserving user experience.
+
+🔍 **What I explored:**  
+- Types of guardrails: input/output filters, safety classifiers, policy enforcement  
+- Agent action controls: sandboxing, execution constraints  
+- Human-in-the-loop and real-time monitoring  
+- Balancing autonomy, safety, and UX smoothness  
+
+🧠 **Example:**  
+An AI agent attempting to process sensitive financial data → blocked by compliance guardrail → routed for human review.
+
+🎯 **Key PM Insight:**  
+Building **trustworthy AI products** isn’t just about smarter models — it’s about **designing the right guardrails** that allow safe autonomy without stifling innovation.
+
 # 🛡️ Day 16 – Threats to AI Agents  
 **#100DaysOfAIPM | [Insert Date]**  
 🔗 [LinkedIn Reflection](https://www.linkedin.com/posts/pmrajesh_threats-to-ai-agents-activity-7350617152955035651-RiCo)
